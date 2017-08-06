@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 
 public partial class _Default : System.Web.UI.Page
 {
+    //TODO: 路徑需讀取並上傳至server端
     string fileString = "F:\\Survey\\FaceApi\\FaceApi_Sample\\face_img\\003.jpg";
 
     protected void Page_Load(object sender, EventArgs e)
